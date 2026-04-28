@@ -15,6 +15,7 @@ Manages all modules and dependencies centrally.
         <module>eureka-server</module>
         <module>config-server</module>
         <module>config-server</module>
+        <module>user-service</module>
 
     </modules>
 
